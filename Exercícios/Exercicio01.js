@@ -5,7 +5,7 @@ function max(x, y) {
 
 console.log(max(100, 400));
 
-//rescrevi o código
+// Rescrevi o código
 const max2 = (x, y) => x > y ? x : y;
 console.log(max2(150, 300));
 

@@ -1,5 +1,5 @@
 function ePaisagem(largura, altura) {
-    return largura > altura; //Se colocar um >= ele retorna "true" caso a imagem for quadrada.
+    return largura > altura; // Se colocar um >= ele retorna "true" caso a imagem for quadrada.
 }
 
 console.log(ePaisagem(1080, 1920))
